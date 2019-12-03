@@ -1,6 +1,6 @@
 # Степан
 def my_superfunction():
-    print('What an awesome print!')
+    print('something new ')
 
 
 def main():
